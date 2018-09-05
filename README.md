@@ -6,7 +6,11 @@ Hasil Keluaran Latihan 1
 
 Hilangkan baris S1.terprotek() dari class TestPertamaKedua
 
-![alt text]()
+![alt text](https://github.com/faarrelll/Jobsheet3/blob/master/b.PNG)
+
+Kompilasi ketiga class tersebut secara berurutan, Hasil kompilasi adalah :
+
+![alt text](https://github.com/faarrelll/Jobsheet3/blob/master/b.PNG)
 
 Jelaskan fungsi dari perintah this.getClass.getName(); ?
 => getClass() digunakan untuk menampilkan nama source package dari class tersebut dan getName() digunakan untuk menampikan nama Class

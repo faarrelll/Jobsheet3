@@ -4,6 +4,9 @@ Hasil Keluaran Latihan 1
 
 ![alt text](https://github.com/faarrelll/Jobsheet3/blob/master/Latihan1.PNG)
 
+Jelaskan fungsi dari perintah this.getClass.getName(); ?
+=> getClass() digunakan untuk menampilkan nama source package dari class tersebut dan getName() digunakan untuk menampikan nama Class
+
 Latihan 2
 
 ![alt text](https://github.com/faarrelll/Jobsheet3/blob/master/Latihan2.PNG)
